@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-c4gw5e.aiopenplatform.com/sitemap.xml
